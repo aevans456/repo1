@@ -1,1 +1,4 @@
+This is a bug fix for my new branch
+this is a test
+bananas
 A long time ago in a galaxy far, far away
